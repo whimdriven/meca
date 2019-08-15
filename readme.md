@@ -23,4 +23,7 @@ Known Issues and Self-Initiated Adjustments:
 
 I also have regular XLSX files with lots of pretty colors if anyone cares :)
 
+14 August 2019 Updates:
+Broke the overall data into files by year, according to the Medical Examiner case numbers (i.e. ME201x).
+
 Thanks, Kari

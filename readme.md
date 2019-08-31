@@ -14,6 +14,8 @@ What am I working on currently?
 
 - Daily updates.  Cross-reference for new cases and manner of death dispositions against pending cases are made daily when the Medical Examiner's native copy provides updates.
 
+- Homicide and Suicide studies.  Ongoing updates at regular intervals of Homicide and Suicide demographics for the county.
+
 Known Issues and Self-Initiated Adjustments:
 - The aforementioned zip codes - most keyed into the native edition are incorrect.  I have updated the vast majority of Chicago city zips already.
 
@@ -21,9 +23,5 @@ Known Issues and Self-Initiated Adjustments:
 
 - Names.  Victim names have been xref'd from media and victim tracking websites.  Homicide victims are the easiest to find along with homicide/suicide incidents.  Other cases are newsworthy, and so a name may accompany - car accidents, drownings, etc.  Names are also xref'd from the Cook County ME's office Unclaimed Bodies index (https://www.cookcountyil.gov/service/unclaimed-persons) and Indigent Cremation index (https://www.cookcountyil.gov/service/virtual-cemetery).
 
-I also have regular XLSX files with lots of pretty colors if anyone cares :)
-
-14 August 2019 Updates:
-Broke the overall data into files by year, according to the Medical Examiner case numbers (i.e. ME201x).
 
 Thanks, Kari
